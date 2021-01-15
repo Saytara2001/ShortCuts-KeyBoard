@@ -1,0 +1,156 @@
+Root:
+	alt + 251
+
+degree:
+	alt + 0176
+
+Modulus:
+	933 % 10 ?
+	933-933 / 10*10 = 3;
+
+	or
+
+	933 /10 = 93 && 933-93*10 =3;
+
+Alt + 969	ω	Small Omega	Greek Letter
+Alt + 961	ρ	Small Rho	Greek Letter
+Alt + 960	π	Small Pi	Greek Letter
+Alt + 956	μ	Small Mu	Greek Letter
+Alt + 955	λ	Small Lamda	Greek Letter
+Alt + 951	η	Small Eta	Greek Letter
+Alt + 948	δ	Small Delta	Greek Letter
+Alt + 947	γ	Small Gamma	Greek Letter
+Alt + 946	β	Small Beta	Greek Letter
+Alt + 945	α	Small Alpha	Greek Letter
+Alt + 937	Ω	Capital Omega	Greek Letter
+Alt + 934	Φ	Capital Phi	Greek Letter
+Alt + 931	Σ	Capital Sigma	Greek Letter
+Alt + 928	Π	Capital Pi	Greek Letter
+Alt + 920	Θ	Capital Theta	Greek Letter
+Alt + 916	Δ	Capital Delta	Greek Letter
+Alt + 915	Γ	Capital Gamma	Greek Letter
+Alt + 8967	⌇	Wavy Line	Others
+Alt + 8966	⌆	Perspective	Others
+Alt + 8965	⌅	Projective	Others
+Alt + 8960	⌀	Diameter	Others
+Alt + 8925	⋝	Equals To Or Greater Than	Equals
+Alt + 8924	⋜	Equals To Or Less Than	Equals
+Alt + 8923	⋛	Greater Than Equals To Or Less Than	Equals
+Alt + 8922	⋚	Less Than Equals To Or Greater Than	Equals
+Alt + 8846	⊎	Union With Plus	Union and Intersection
+Alt + 8809	≩	Greater Than But Not Equals To	Equals
+Alt + 8808	≨	Less Than But Not Equals To	Equals
+Alt + 8805	≥	Greater Than Or Equals To	Equals
+Alt + 8804	≤	Less Than Or Equals To	Equals
+Alt + 8746	∪	Union	Union and Intersection
+Alt + 8745	∩	Intersection	Union and Intersection
+Alt + 8726	∖	Left Slash	Others
+Alt + 8725	∕	Right Slash	Others
+Alt + 8723	∓	Minus Or Plus	Others
+Alt + 8722	−	Minus Sign	Minus
+Alt + 8709	∅	Empty Set	Others
+Alt + 8706	∂	Partial Differential	Greek Letter
+Alt + 8260	⁄	Slash	Division
+Alt + 61	=	Equal	Equals
+Alt + 247	÷	Division	Division
+Alt + 215	×	Multiplication Sign	Multiplication
+Alt + 177	±	Plus Or Minus	Others
+Alt + 120539	𝛛	Bold Partial Differential	Greek Letter
+Alt + 120538	𝛚	Bold Small Omega	Greek Letter
+Alt + 120532	𝛔	Bold Small Sigma	Greek Letter
+Alt + 120530	𝛒	Bold Small Rho	Greek Letter
+Alt + 120529	𝛑	Bold Small Pi	Greek Letter
+Alt + 120525	𝛍	Bold Small Mu	Greek Letter
+Alt + 120524	𝛌	Bold Small Lamda	Greek Letter
+Alt + 120520	𝛈	Bold Small Eta	Greek Letter
+Alt + 120517	𝛅	Bold Small Delta	Greek Letter
+Alt + 120516	𝛄	Bold Small Gamma	Greek Letter
+Alt + 120515	𝛃	Bold Small Beta	Greek Letter
+Alt + 120514	𝛂	Bold Small Alpha	Greek Letter
+Alt + 120512	𝛀	Bold Capital Omega	Greek Letter
+Alt + 120509	𝚽	Bold Capital Phi	Greek Letter
+Alt + 120506	𝚺	Bold Capital Sigma	Greek Letter
+Alt + 120503	𝚷	Bold Capital Pi	Greek Letter
+Alt + 120495	𝚯	Bold Capital Theta	Greek Letter
+Alt + 120491	𝚫	Bold Capital Delta	Greek Letter
+Alt + 120490	𝚪	Bold Capital Gamma	Greek Letter
+Alt + 10870	⩶	Three Equals	Equals
+Alt + 10869	⩵	Two Equals	Equals
+Alt + 10866	⩲	Plus Sign Above Equals Sign	Plus
+Alt + 10832	⩐	Closed Union With Serifs And Smash Product	Union and Intersection
+Alt + 10831	⩏	Double Square Union	Union and Intersection
+Alt + 10830	⩎	Double Square Intersection	Union and Intersection
+Alt + 10829	⩍	Closed Intersection With Serifs	Union and Intersection
+Alt + 10828	⩌	Closed Union With Serifs	Union and Intersection
+Alt + 10827	⩋	Intersection Beside And Joined With Intersection	Union and Intersection
+Alt + 10826	⩊	Union Beside And Joined With Union	Union and Intersection
+Alt + 10825	⩉	Intersection Above Bar Above Union	Union and Intersection
+Alt + 10824	⩈	Union Above Bar Above Intersection	Union and Intersection
+Alt + 10823	⩇	Intersection Above Union	Union and Intersection
+Alt + 10822	⩆	Union Above Intersection	Union and Intersection
+Alt + 10821	⩅	Union With Logical Or	Union and Intersection
+Alt + 10820	⩄	Intersection With Logical And	Union and Intersection
+Alt + 10819	⩃	Intersection With Overbar	Union and Intersection
+Alt + 10818	⩂	Union With Overbar	Union and Intersection
+Alt + 10817	⩁	Union With Minus	Union and Intersection
+Alt + 10816	⩀	Intersection With Dot	Union and Intersection
+Alt + 10815	⨿	Amalgamation	Others
+Alt + 10811	⨻	Multiplication Sign in Triangle	Multiplication
+Alt + 10810	⨺	Minus SIGN IN TRIANGLE	Minus
+Alt + 10809	⨹	Plus Sign In Triangle	Plus
+Alt + 10808	⨸	Circled Division Sign	Division
+Alt + 10807	⨷	Multiplication Sign In Double Circle	Multiplication
+Alt + 10806	⨶	Circled Multiplication Sign With Circumflex Accent	Multiplication
+Alt + 10805	⨵	Multiplication Sign In Right Half Circle	Multiplication
+Alt + 10804	⨴	Multiplication Sign In Left Half Circle	Multiplication
+Alt + 10803	⨳	Smash Product	Multiplication
+Alt + 10802	⨲	Semidirect Product With Bottom Closed	Multiplication
+Alt + 10801	⨱	Multiplication Sign With Underbar	Multiplication
+Alt + 10800	⨰	Multiplication Sign With Dot Above	Multiplication
+Alt + 10798	⨮	Plus Sign In Right Half Circle	Plus
+Alt + 10797	⨭	Plus Sign In Left Half Circle	Plus
+Alt + 10796	⨬	Minus Sign With Rising Dots	Minus
+Alt + 10795	⨫	Minus Sign With Falling Dots	Minus
+Alt + 10794	⨪	Minus Sign With Dot Below	Minus
+Alt + 10793	⨩	Minus Sign With Comma Above	Minus
+Alt + 10792	⨨	Plus Sign With Black Triangle	Plus
+Alt + 10791	⨧	Plus Sign With Subscript Two	Plus
+Alt + 10790	⨦	Plus Sign With Tilde Below	Plus
+Alt + 10789	⨥	Plus Sign With Dot Below	Plus
+Alt + 10788	⨤	Plus Sign With Tilde Above	Plus
+Alt + 10787	⨣	Plus Sign With Circumflex Accent Above	Plus
+Alt + 10786	⨢	Plus Sign With Small Circle Above	Plus
+Alt + 10781	⨝	Join	Others
+Alt + 10780	⨜	Lower Integral	Integrals
+Alt + 10779	⨛	Upper Integral	Integrals
+Alt + 10778	⨚	Integral With Union	Integrals
+Alt + 10777	⨙	Integral With Intersection	Integrals
+Alt + 10776	⨘	Integral With Times Sign	Integrals
+Alt + 10775	⨗	Integral With Leftwards Arrow With Hook	Integrals
+Alt + 10774	⨖	Quaternion Integral Operator	Integrals
+Alt + 10773	⨕	Integral Around A Point Operator	Integrals
+Alt + 10772	⨔	Line Integration Not Including The Pole	Integrals
+Alt + 10771	⨓	Line Integration With Semicircular Path Around Pole	Integrals
+Alt + 10770	⨒	Line Integration With Rectangular Path Around Pole	Integrals
+Alt + 10769	⨑	Anticlockwise Integration	Integrals
+Alt + 10768	⨐	Circulation Function	Integrals
+Alt + 10767	⨏	Integral Average With Slash	Integrals
+Alt + 10766	⨎	Integral With Double Stroke	Integrals
+Alt + 10765	⨍	Finite Part Integral	Integrals
+Alt + 10764	⨌	Quadruple Integral Operator	Integrals
+Alt + 10763	⨋	Summation With Integral	Integrals
+Alt + 10762	⨊	Modulo Two Sum	Others
+Alt + 10747	⧻	Triple Plus	Plus
+Alt + 10746	⧺	Double Plus	Plus
+Alt + 10689	⧁	Circled Greater Than	Others
+Alt + 10688	⧀	Circled Less Than	Others
+Alt + 10684	⦼	Circled Rotated Division Sign	Division
+Alt + 10683	⦻	Circled Cross Mark	Multiplication
+Alt + 10682	⦺	Circled Perpendicular	Others
+Alt + 10679	⦷	Circled Parallel	Others
+Alt + 10672	⦰	Reversed Empty Set	Others
+Alt + 10655	⦟	Acute Angle	Angle
+Alt + 10653	⦝	Right Angle With Arc	Others
+Alt + 10652	⦜	Right Angle With Square	Others
+Alt + 10624	⦀	Triple Vertical Bar Delimiter	Others
+Alt + 10135	➗	Bold Division
